@@ -1,0 +1,8 @@
+name: BlackMina
+main: net.black.mina.Main
+author: [Gabriel]
+version: 1.0
+
+commands:
+   mina:
+   armazenamento:
